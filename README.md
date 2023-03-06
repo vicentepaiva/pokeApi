@@ -2,7 +2,7 @@
 
 This is a project that I am using to training my abilities about React and typescript.
 
-#Tecnologies
+# Tecnologies
 
 . Vite <br/>
 . React web <br/>
